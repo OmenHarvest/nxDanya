@@ -31,5 +31,6 @@
     ./modules/apps/social.nix
     ./modules/apps/torrent.nix
     ./modules/apps/vless.nix
+    ./modules/apps/utils.nix
   ];
 }
